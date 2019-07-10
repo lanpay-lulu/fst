@@ -1,3 +1,4 @@
+package example;
 
 import fst.*;
 import utils.BytesRef;
